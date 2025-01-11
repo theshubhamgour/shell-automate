@@ -1,0 +1,2 @@
+theshubhamgour/node:nodeapp-pre-release-v1.0.0
+theshubhamgour/djago-todo-app:latest

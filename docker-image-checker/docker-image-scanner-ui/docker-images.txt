@@ -1,0 +1,65 @@
+# Studio
+neewee/bodhee_configuration:pre-release-v1.10.145
+neewee/bodhee_configuration_ui:pre-release-v1.16.224
+neewee/bodhee_controller:pre-release-v2.8.13-JDBC15
+neewee/bodhee-studio-file-upload:pre-release-v1.0.19
+neewee/bodhee_security:pre-release-v1.3.66
+neewee/bxs-masterdata-migration:pre-release-v1.0.15
+
+
+
+# CPA
+neewee/cpa_backend:pre-release-v2.0.5
+neewee/cpa-webapp-ui:pre-release-v2.0.23
+soorkod/bodhee:cpa-pythonCodeblocks-1.0.36_apu2
+neewee/cpa_ruleset_features_and_compliance:pre-release-v1.0.5
+neewee/eoee-ui:pre-release-v1.0.42
+neewee/cpa-file-upload:pre-release-v1.0.4
+neewee/cpa-realtime-engine:pre-release-v1.3.8
+neewee/cpa-historical-engine:pre-release-v1.0.3
+
+
+
+# IMP
+neewee/integrated_microplanning:pre-release-v2.16.100
+neewee/integrated_microplanning:qc-be-pre-release-v4.0.1
+neewee/integrated_microplanning:bps-bms-be-pre-release-v4.3.51
+neewee/integrated-micro-planning:pre-release-v3.16.157
+neewee/integrated-micro-planning:bxs-fe-pre-release-v4.3.168
+neewee/harbourmatrix:pre-release-v1.3.32
+neewee/harbourmatrix:pre-release-qc-v3.0.0
+neewee/bms_be_harbourmatrix:pre-release-v1.1.66
+neewee/message-bus:pre-release-v1.0.0
+neewee/bodhee_notifier:pre-release-v2.1.2
+neewee/bps-optimizer:pre-release-v3.1.25
+neewee/bodhee-alert-engine:pre-release-v1.0.8
+neewee/bodheegateway:pre-release-v1.0.3
+neewee/bodhee-dashboard-ui:pre-release-v1.0.1
+
+
+
+# Algo Auditor
+neewee/scheduling-engine-test-suite:pre-release-v1.2.58
+
+
+
+# Algo engine
+neewee/scheduling-engine:pre-release-v1.12.89
+neewee/pre_post_processing_controller:pre-release-v1.3.151
+neewee/bodhee_maintenance_schedular:pre-release-v1.0.0
+
+
+
+
+
+# Database-Version
+
+  # auditor-database-version : Algo Auditor v1.1.13
+
+  # database-version: v2.1.263
+
+  # cpa-database-version: 1.0.9
+
+  # algo-database-version:  algo-v1.0.62
+
+  # integration-database-version: v1.0.75-I
